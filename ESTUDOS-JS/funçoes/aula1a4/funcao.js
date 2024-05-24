@@ -3,9 +3,9 @@
 // declaration - declaração da função
 // function statement  
 function criarfrases () {
-    console.log('estudar é o carai')
-    console.log('paciencie é meu ovo')
-    console.log('revisao de pica')
+    console.log('estudar é o daora')
+    console.log('paciencie é a chave')
+    console.log('revisao é bom')
 }
 
 // executar a função
