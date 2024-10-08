@@ -34,7 +34,6 @@ def deletar_tarefas_completadas(tarefas):
     print("Tarefas completadas foram deletadas.")
     return
 
-
 tarefas = []
 while True:
     print("\nMenu do Gerenciador de Lista de tarefas:")
